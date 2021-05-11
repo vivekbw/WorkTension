@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "WorkTension",
+    "description": "Boost your productivity using this helpful Extension!",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "iconv1.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": []
+}
